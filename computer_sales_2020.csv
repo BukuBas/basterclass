@@ -1,0 +1,11 @@
+customer id,Product ID,Product Type,Sale Price,Profit,Lead,Month,Year
+30,M01-F0024,Desktop,479.99,143.39,Flyer 2,January,2020
+31,GA401IV,Laptop,1349.99,180.34,Flyer 1,January,2020
+32,GT13-0024,Desktop,1249.99,230.89,Flyer 2,February,2020
+33,I3593,Laptop,399.99,72.09,Flyer 2,March,2020
+34,15M-ED,Laptop,699.99,98.09,Email,March,2020
+35,MY2J2LL,Tablet,999.99,146.69,Website,April,2020
+36,81TC00,Laptop,649.99,122.34,Website,April,2020
+37,M01-F0024,Desktop,479.99,143.39,Flyer 4,April,2020
+38,GA401IV,Laptop,1349.99,180.34,Website,May,2020
+39,I3593,Laptop,399.99,72.09,Website,May,2020

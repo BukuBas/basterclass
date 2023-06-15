@@ -1,0 +1,23 @@
+- Open docker desktop & log in 
+- Use terminal to pull image:
+
+docker pull jupyter/all-spark-notebook
+
+- When you have installed the image, run: 
+
+docker run --rm -p 4040:4040 -p 8888:8888 -v "/Users/basgerritsen/Library/CloudStorage/OneDrive-NN/Documents Windows Laptop/Harvest/basterclass":/home/jovyan/work jupyter/all-spark-notebook
+
+*don't forget to change "your_workspace" to a folder path on your local device.
+
+- When everything is running, the terminal outputs 3 ways to access the server. One of these works. The output looks something like this:
+
+    To access the server, open this file in a browser:
+        file:///home/jovyan/.local/share/jupyter/runtime/jpserver-8-open.html
+    Or copy and paste one of these URLs:
+        http://714ea21345cd:8888/lab?token=c01da21cfeb8936d3ce15f268411ec1a8784062350a4bca4
+        http://127.0.0.1:8888/lab?token=c01da21cfeb8936d3ce15f268411ec1a8784062350a4bca4
+
+- Create a new notebook and run the following code. This should not return an error:
+
+from pyspark.sql import SparkSession
+spark = SparkSession.builder.appName("Load CSV").getOrCreate()

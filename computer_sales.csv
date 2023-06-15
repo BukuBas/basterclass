@@ -1,0 +1,31 @@
+ id,Product ID,Product Type,Sale Price,Profit,Lead,Month,Year,Error
+1,M01-F0024,Desktop,479.99,143.39,Website,January,2018
+2,GT13-0024,Desktop,1249.99,230.89,Flyer 4,January,2018
+3,I3670,Desktop,649.99,118.64,Website,February,2018
+4,I3593,Laptop,399.99,72.09,Website,March,2018
+5,15M-ED,Laptop,699.99,98.09,Flyer 4,March,2018
+6,GT13-0024,Desktop,1249.99,230.89,Flyer 2,April,2018
+7,GA401IV,Laptop,1349.99,180.34,Email,May,2018
+8,MY2J2LL,Tablet,999.99,146.69,Website,July,2018
+9,81TC00,Laptop,649.99,122.34,Email,July,2018
+10,M01-F0024,Desktop,479.99,143.39,Flyer 2,August,0
+11,GA401IV,Laptop,1349.99,180.34,Flyer 3,November,2018
+12,GT13-0024,Desktop,1249.99,230.89,Flyer 2,November,2018
+13,81TC00,Laptop,649.99,122.34,Email,November,2018
+14,I3670,Desktop,649.99,118.64,Website,December,2018
+15,MY2J2LL,Tablet,999.99,146.69,Flyer 1,December,2018
+16,I3593,Laptop,399.99,72.09,Flyer 2,January,2019
+17,15M-ED,Laptop,699.99,98.09,Email,February,0
+18,MY2J2LL,Tablet,999.99,146.69,Website,March,2019
+19,I3593,Laptop,399.99,72.09,Flyer 4,March,2019
+20,81TC00,Laptop,649.99,122.34,Website,April,2019
+21,M01-F0024,Desktop,479.99,143.39,Flyer 4,May,2019
+22,GA401IV,Laptop,1349.99,180.34,Website,August,2019
+23,81TC00,Laptop,649.99,122.34,Website,August,2019
+24,Q526FA,Laptop,1049.99,143.09,Flyer 4,November,2019
+25,I3670,Desktop,649.99,118.64,Flyer 2,November,0
+26,Q526FA,Laptop,1049.99,143.09,Email,November,2019
+27,Q526FA,Laptop,1049.99,143.09,Website,December,2019
+28,15M-ED,Laptop,699.99,98.09,Email,December,2019
+29,GA401IV,Laptop,1349.99,180.34,Flyer 2,December,2019
+7,GA401IV,Laptop,1349.99,180.34,Email,May,2018
